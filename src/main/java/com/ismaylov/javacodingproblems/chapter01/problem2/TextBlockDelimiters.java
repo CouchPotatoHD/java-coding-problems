@@ -1,4 +1,4 @@
-package com.ismaylov.javacodingproblems.chapter02;
+package com.ismaylov.javacodingproblems.chapter01.problem2;
 
 public class TextBlockDelimiters {
 
